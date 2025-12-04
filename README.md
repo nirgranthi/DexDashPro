@@ -2,7 +2,7 @@
 
 A lightweight, serverless crypto dashboard that tracks real-time token prices and charts using the DexScreener API.
 
-<a href="https://dex-dash-pro-6fme.vercel.app/" target="_blank">
+<a href="https://dex-dash-pro.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-Start_Here-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" height="40" />
 </a>
 
@@ -16,7 +16,7 @@ A lightweight, serverless crypto dashboard that tracks real-time token prices an
 
 * **Step-2:** Click on Add new project, import this repository or fork and then import if you want to make any changes.
 
-* **Step-3:** Keep the default settings, click deploy.
+* **Step-3:** Make sure to select "Vite" in framework preset, click deploy.
 
 ## Features ✨
 
